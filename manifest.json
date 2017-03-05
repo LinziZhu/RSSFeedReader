@@ -1,0 +1,27 @@
+{
+
+  "manifest_version": 2,
+  "name": "RSS Feed Reader",
+  "version": "0.1",
+
+  "description": "Adds a browser action icon to the toolbar, that when clicked displays a dropdown list of subscribed RSS feeds and their new items",
+  "homepage_url": "https://github.com/LinziZhu/RSSFeedReader",
+  "icons" : {
+    "48": "icons/rss-icon-48.png",
+    "96": "icons/rss-icon-96.png"
+  },
+
+  "permissions": [
+
+  ],
+
+  "browser_action": {
+    "default_icon": "icons/rss-icon-32.png",
+    "default_title": "RSS Feed Reader",
+    "default_popup": "popup/rss_feed_reader.html"
+  },
+
+  "web_accessible_resources": [
+  ]
+
+}
