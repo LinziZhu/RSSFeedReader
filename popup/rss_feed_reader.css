@@ -1,4 +1,4 @@
-html, body {
+/*html, body {
   width: 100px;
 }
 
@@ -9,19 +9,4 @@ html, body {
   font-size: 1.5em;
   cursor: pointer;
 }
-
-.beast:hover {
-  background-color: #CFF2F2;
-}
-
-.beast {
- background-color: #E5F2F2;
-}
-
-.clear {
- background-color: #FBFBC9;
-}
-
-.clear:hover {
- background-color: #EAEAC9;
-}
+*/
